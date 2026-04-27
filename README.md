@@ -7,11 +7,11 @@ I am a backend-focused software engineer interested in the intersection of low-l
 
 ---
 
-### 🛠 My Technical Toolkit
+### 🛠 Technical Toolkit
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![C%23](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) |
+| **Languages** | ![C](https://img.shields.io/badge/-C-333333?logo=c&logoColor=ff0000) ![C++](https://img.shields.io/badge/-C++-333333?logo=c%2B%2B&logoColor=ff0000) ![Python](https://img.shields.io/badge/-Python-333333?logo=python&logoColor=ff0000) ![Java](https://img.shields.io/badge/-Java-333333?logo=openjdk&logoColor=ff0000) ![C%23](https://img.shields.io/badge/-C%23-333333?logo=c-sharp&logoColor=ff0000) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?logo=postgresql&logoColor=ff0000) |
 | **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![JetBrains](https://img.shields.io/badge/-JetBrains-000000?logo=jetbrains&logoColor=white) |
 | **Concepts** | `Compilers` `Machine Learning` `Operating Systems` `Computer Networks` `Model Driven Development` |
 
