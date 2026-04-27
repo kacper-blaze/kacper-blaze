@@ -26,8 +26,8 @@ I am a backend-focused software engineer interested in the intersection of low-l
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=kacper-blaze&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=false" alt="Kacper's Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kacper-blaze&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=kacper-blaze&show_icons=true&theme=dark&title_color=ff0000&icon_color=ff0000&text_color=ffffff&hide_border=true&hide_rank=false" alt="Kacper's Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kacper-blaze&layout=compact&theme=dark&title_color=ff0000&text_color=ffffff&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
 ---
