@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm Kacper! 👋 
 
-<!--
-**kacper-blaze/kacper-blaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 II Year CS Student @ AGH University of Krakow 
+**Team Leader @ Synaptica Student Research Group**
 
-Here are some ideas to get you started:
+I am a backend-focused software engineer interested in the intersection of low-level systems and scalable architecture. From building symbolic math engines to exploring the intricacies of compiler design, I enjoy digging into the "how" behind the code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 My Technical Toolkit
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![C%23](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![JetBrains](https://img.shields.io/badge/-JetBrains-000000?logo=jetbrains&logoColor=white) |
+| **Concepts** | `Compilers` `Machine Learning` `Operating Systems` `Computer Networks` `Model Driven Development` |
+
+---
+
+### 🔭 Current Focus & Leadership
+- **Team Lead @ Synaptica:** Architecting the roadmap for game accessibility research. 
+- **Academic:** Currently deep-diving into **Compilation Theory** and **Operational Research** at AGH. 
+- **Personal:** Exploring **Network Protocols** and low-level system communication. 
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=kacper-blaze&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=false" alt="Kacper's Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kacper-blaze&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kacper-kobieluch-19b940398/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k.kobieluch@gmail.com)
+
+---
+
+> *"Code is like humor. When you have to explain it, it’s bad."*
